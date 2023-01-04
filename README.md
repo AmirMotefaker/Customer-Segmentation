@@ -1,4 +1,4 @@
-# Customer Segmentation using K-Means Algorithm
+# Customer Segmentation using K-Means Algor
 
 - Customer segmentation simply means grouping your customers according to various characteristics (for example grouping customers by age).
 
